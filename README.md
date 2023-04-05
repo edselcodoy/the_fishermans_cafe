@@ -4,9 +4,9 @@
 
 A web app aimed at introducing the brand, the products, and the services of a local cafe [*The Fisherman's Cafe*](https://thefishermanscafe.info).
 
-The design centered was purposely centered around content managing capabilities and customizations for client ease-of-use and maintainability.
+The design was purposely centered around content managing capabilities and customizations for client ease-of-use and maintainability.
 
-This is the project my group pursued in our Software Engineering class using the tech stack: 
+This is the project pursued by my group in our Software Engineering class using the tech stack: 
 - Django 
 - React
 - PostgreSQL
