@@ -2,7 +2,7 @@
 
 <img src="cafe/media/logo/tfcafe_logo.png" width="80" height="80" alt="The Fisherman's Cafe Logo" align="right" />
 
-A web app aimed at introducing the brand, the products, and the services of a local cafe [*The Fisherman's Cafe*](https://thefishermanscafe.info).
+A web app aimed at introducing the brand, the products, and the services of a local cafe *The Fisherman's Cafe*.
 
 The design was purposely centered around content managing capabilities and customizations for client ease-of-use and maintainability.
 
